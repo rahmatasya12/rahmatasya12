@@ -1,6 +1,6 @@
 # 👋 Halo, Saya Rahma Tasya!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&width=435&lines=Mahasiswa+Teknik+Informatika;Web+Development+Enthusiast;Always+Learning+%F0%9F%9A%80)
+font=Fira+Code&pause=1000&color=0A66C2&width=435&lines=Mahasiswa+Teknik+Informatika;Web+Development+Enthusiast;Always+Learning+%F0%9F%9A%80)
 
 ---
 
