@@ -37,7 +37,7 @@
 
 ---
 
-## 🎯 Target 2025
+## 🎯 Target 2026
 
 - ☐ Menyelesaikan kursus Web Development
 - ☐ Berkontribusi pada proyek open-source
