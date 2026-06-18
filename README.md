@@ -10,7 +10,7 @@
 - 💡 Tertarik pada **Web Development, Database, Analisis Sistem, dan C++**
 - 🌱 Sedang belajar **PHP, MySQL, dan JavaScript** lebih dalam
 - 🚀 Membuka diri untuk **kolaborasi** dan proyek **open-source**
-- 📫 Hubungi saya: **rahmatasya@email.com**
+- 📫 Hubungi saya: **rahmatasya@gmail.com**
 
 ---
 
